@@ -225,13 +225,5 @@ Recall the e-commerce website scenario we discussed earlier. Given the expected 
 * **Redundancy**: The dual ISP, switch, and firewall configurations minimize the risk of service disruption due to hardware failures or external attacks.  
 * **Security Threats**: Firewalls, IDS/IPS systems, and network segmentation reduce the likelihood of security breaches.
 
-| Criteria | Excellent | 10pts | Good | 7pts | Needs Improvement | 4pts |
-| ----- | :---- | :---- | :---- |
-| **Network Analysis**  | Accurately identifies potential bottlenecks, security risks, and capacity limitations. | Identifies key network components and some potential bottlenecks. | Identifies some basic network components but lacks a comprehensive analysis. |
-| **Scalability Planning**   | Proposes multiple relevant solutions and provides detailed explanations, including potential drawbacks and benefits. | Proposes some relevant scalability strategies but lacks detail. | Proposes limited scalability strategies. |
-| **Evaluation of Solutions**  | Proposes comprehensive scalability strategies, including specific recommendations for hardware upgrades, software configurations, and network optimizations. | Provides a basic evaluation of the proposed solutions, but lacks depth. | Does not evaluate the proposed solutions or provides a superficial evaluation. |
-| **Proposed Design**  | Provides a detailed and well-justified design, including network diagrams, configuration details, and implementation plans. | Provides a basic design but lacks specific details and justifications. | Does not provide a clear and detailed design. |
-| **Evaluation and Justification**  | Provides a thorough evaluation of the proposed solutions, considering factors like cost, complexity, and potential impact. | Provides a basic evaluation of the proposed solutions, but lacks depth. | Does not evaluate the proposed solutions or provides a superficial evaluation |
-| Score: |  |  |      /50 |
 
 ![image](https://github.com/user-attachments/assets/ece2b03c-7455-4b70-bf36-ba0aaf38052d)
