@@ -1,98 +1,22 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| ac9dd648b9c24008a3a30c3188cc2958 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Zhaun Gabrielle F. Pasion  | DATE PERFORMED:        |          |
-|                                  | 29/8/2024              |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 29/8/2024              |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/efa2f1a2-1dcc-4b4e-bc4d-df77440fd4c9)
+
 
 # SYSADM1 -- Physical Infrastructure
 
-# Instructions:  {#instructions .list-paragraph}
+# Instructions: 
 
 Answer the following questions based on Week 3 Lecture notes.
 
 1.  Identify potential issues in physical infrastructure setups and
     propose solutions to optimize performance or reduce costs
 
-+----------------------+-----------------------+-----------------------+
-| **Issues**           | **Description**       | **Solution**          |
-+======================+=======================+=======================+
-|   -----------------  | Poor space management | Implement rack        |
-|   High Costs due to  | leads to higher       | optimization and      |
-|   Inefficient Space  | operational costs due | modular design to     |
-|   Management         | to excessive energy   | better utilize space  |
-|   -----------------  | consumption and       | and reduce overall    |
-|                      | inefficient use of    | costs.                |
-|   -----------------  | space.                |                       |
-|                      |                       |                       |
-|   -----------------  |                       |                       |
-|                      |                       |                       |
-|   -----------------  |                       |                       |
-|                      |                       |                       |
-|   -----------------  |                       |                       |
-|                      |                       |                       |
-|   -----------------  |                       |                       |
-+----------------------+-----------------------+-----------------------+
-|   -----------------  | Without redundancy,   | Design infrastructure |
-|   Redundancy and     | systems may           | with redundancy, such |
-|   Reliability        | experience outages    | as backup power       |
-|   -----------------  | and disruptions,      | systems and multiple  |
-|                      | impacting business    | network paths, to     |
-|   -----------------  | continuity.           | ensure reliability.   |
-|                      |                       |                       |
-|   -----------------  |                       |                       |
-|                      |                       |                       |
-|   -----------------  |                       |                       |
-|                      |                       |                       |
-|   -----------------  |                       |                       |
-|                      |                       |                       |
-|   -----------------  |                       |                       |
-+----------------------+-----------------------+-----------------------+
-|   -----------------  | Poor placement of     | Develop a structured  |
-|   Improper Device    | devices causes        | layout and use rack   |
-|   Placement          | operational           | optimization          |
-|   -----------------  | inefficiencies and    | techniques to improve |
-|                      | can result in         | device placement and  |
-|   -----------------  | cluttered             | space efficiency.     |
-|                      | environments.         |                       |
-|   -----------------  |                       |                       |
-|                      |                       |                       |
-|   -----------------  |                       |                       |
-|                      |                       |                       |
-|   -----------------  |                       |                       |
-|                      |                       |                       |
-|   -----------------  |                       |                       |
-+----------------------+-----------------------+-----------------------+
-| Cooling Efficiency   | Ineffective cooling   | Use energy-efficient  |
-|                      | systems can cause     | cooling methods like  |
-|                      | equipment to          | hot aisle/cold aisle  |
-|                      | overheat, potentially | containment to manage |
-|                      | leading to failure    | airflow, and ensure   |
-|                      | and downtime.         | regular maintenance   |
-|                      |                       | to keep the cooling   |
-|                      |                       | systems running       |
-|                      |                       | efficiently. Also     |
-|                      |                       | consider the          |
-|                      |                       | environment on the    |
-|                      |                       | device.               |
-+----------------------+-----------------------+-----------------------+
+![image](https://github.com/user-attachments/assets/74afcfa1-fa59-41aa-838f-6547f93a75fc)
+
 
 2.  You are a project manager responsible for implementing a new
     infrastructure project, such as a smart city initiative or a digital
     transformation strategy.
 
-```{=html}
-<!-- -->
-```
 A.  What IT systems and technologies are necessary to support the
     project\'s objectives?
 
