@@ -1,120 +1,39 @@
-# ![](vertopal_e0f15d243d9742d8b04ce1d30baf3ea0/media/image1.png){width="6.5in" height="2.2402777777777776in"}
+![image](https://github.com/user-attachments/assets/1b1c435f-3a96-429e-ad6e-74afd23bbfa7)![image](https://github.com/user-attachments/assets/a966b30a-80e2-47f9-9b9a-60b2df0b2d47)
 
-# SYSADM1
 
 > **Table of Contents**
 
-+----------------------------------------+---+--------------+---+-------------+
-| **Name of Activities**                 |   | **Date of    | * |             |
-|                                        |   | Activity**   | * |             |
-|                                        |   |              | P |             |
-|                                        |   |              | a |             |
-|                                        |   |              | g |             |
-|                                        |   |              | e |             |
-|                                        |   |              | N |             |
-|                                        |   |              | o |             |
-|                                        |   |              | . |             |
-|                                        |   |              | * |             |
-|                                        |   |              | * |             |
-+----------------------------------------+---+--------------+---+-------------+
-| **First Grading**                      |   |              |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| Quizzes                                |   |              |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| > Quiz 1                               |   | August 20,   | 2 |             |
-|                                        |   | 2024         |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| Other Activities                       |   |              |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| > Case Study                           |   | August 15,   | 2 |             |
-|                                        |   | 2024         |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| > Managing Services in Windows         |   | August 29,   | 3 |             |
-|                                        |   | 2024         |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| **Midterms**                           |   |              |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| Other Activities                       |   |              |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| > Log Monitoring                       |   | October 10,  | 4 |             |
-|                                        |   | 2024         |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| > Setting Up Web Server                |   | October 10,  | 5 |             |
-|                                        |   | 2024         |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| > File Server, Network File Storage    |   | October 15,  | 6 |             |
-| > and Mobile Synchronization           |   | 2024         |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| **Finals**                             |   |              |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| Quizzes                                |   |              |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| > FQuiz1_Recovery                      | N |              |   | 7           |
-|                                        | o |              |   |             |
-|                                        | v |              |   |             |
-|                                        | e |              |   |             |
-|                                        | m |              |   |             |
-|                                        | b |              |   |             |
-|                                        | e |              |   |             |
-|                                        | r |              |   |             |
-|                                        | 2 |              |   |             |
-|                                        | 1 |              |   |             |
-|                                        | , |              |   |             |
-|                                        | 2 |              |   |             |
-|                                        | 0 |              |   |             |
-|                                        | 2 |              |   |             |
-|                                        | 4 |              |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| Other Activities                       |   |              |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| > Network Topology Part 1              |   | November 28, | 8 |             |
-|                                        |   | 2024         |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| > Network Topology Part 2              |   | December 5,  | 9 |             |
-|                                        |   | 2024         |   |             |
-+----------------------------------------+---+--------------+---+-------------+
-| Course Reflection                      |   |              | 1 |             |
-|                                        |   |              | 0 |             |
-+----------------------------------------+---+--------------+---+-------------+
+![image](https://github.com/user-attachments/assets/a3d2a7e1-48c4-4711-b893-51c64e700667)
+
 
 **First Grading**
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------
-  **Quiz 1**                                                                                     **August 20, 2024**     **20/20**
-  ---------------------------------------------------------------------------------------------- ----------------------- -----------------------
-  ![](vertopal_e0f15d243d9742d8b04ce1d30baf3ea0/media/image2.png){width="1.8463681102362204in"                           
-  height="2.880777559055118in"}                                                                                          
+![image](https://github.com/user-attachments/assets/27154371-8888-4559-90e3-6de19e542a6f)
+                                                                                       
 
-  The first quiz we had back in the first grading. If I remembered correctly, the topic was all                          
-  about incase of service disruptions, how do you ensure the availability of critical data. At                           
-  the time, my mind was full of answers and at the end, I ended up filling my ¼ paper with                               
-  answers. I remembered that there are still some that I wanted to write in my paper but I don't                         
-  have enough space to write anymore so I just submitted my paper. Little did I know this was                            
-  just the start of our jurney in SYSADM1, as we go further, topics go deep and deeper                                   
-  ----------------------------------------------------------------------------------------------------------------------------------------------
+The first quiz we had back in the first grading. If I remembered correctly, the 
+topic was all about incase of service disruptions, how do you ensure the availability 
+of critical data. At the time, my mind was full of answers and at the end, I ended up 
+filling my ¼ paper with answers. I remembered that there are still some that I wanted 
+to write in my paper but I don't have enough space to write anymore so I just submitted 
+my paper. Little did I know this was just the start of our jurney in SYSADM1, as we go 
+further, topics go deep and deeper   
+  
+![image](https://github.com/user-attachments/assets/a0ecd185-20a3-4cf3-88e5-fce39d698fbf)
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------
-  **Case Study**                                                                                 **August 15, 2024**     **50/50**
-  ---------------------------------------------------------------------------------------------- ----------------------- -----------------------
-  ![](vertopal_e0f15d243d9742d8b04ce1d30baf3ea0/media/image3.png){width="3.9913648293963253in"                           
-  height="3.4350798337707786in"}                                                                                         
+                                                                                        
+Our first Case Study Activity during the prelims was about the roles of a system 
+administrator and the pros and cons of manual system management and using automated 
+tools. It was a fun activity that made us think about what the best answer is for a 
+given situation. We learned that system administrators are important for keeping systems 
+running smoothly, but deciding whether to manage systems manually or with automated 
+tools depends on the task. Manual management can take a lot of time and cause mistakes,
+but it’s flexible. On the other hand, automated tools help reduce errors and are faster,
+but they need to be set up right and might not handle everything. This case study showed
+us the need to know when to use each method to keep systems safe and working well.                                                                                   
 
-  Our first Case Study Activity during the prelims was about the roles of a system administrator                         
-  and the pros and cons of manual system management and using automated tools. It was a fun                              
-  activity that made us think about what the best answer is for a given situation. We learned                            
-  that system administrators are important for keeping systems running smoothly, but deciding                            
-  whether to manage systems manually or with automated tools depends on the task. Manual                                 
-  management can take a lot of time and cause mistakes, but it's flexible. On the other hand,                            
-  automated tools help reduce errors and are faster, but they need to be set up right and might                          
-  not handle everything. This case study showed us the need to know when to use each method to                           
-  keep systems safe and working well.                                                                                    
-  ----------------------------------------------------------------------------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------
-  **Managing Services in Windows**                                                **August 29, 2024**
-  ------------------------------------------------------------------------------- ----------------------------------
-  ![](vertopal_e0f15d243d9742d8b04ce1d30baf3ea0/media/image4.png){width="6.5in"   
-  height="3.797222222222222in"}                                                   
+![image](https://github.com/user-attachments/assets/267f551d-f8ee-4bb5-af78-f3781e72a43c)
+                                                 
 
   One of my favorite lab activities during the prelims was managing services in   
   Windows. In this activity, we learned how to stop, restart, pause, and start    
@@ -124,15 +43,11 @@
   refuses to start, even after trying to open it multiple times. Overall, the     
   activity taught me a new way to control and troubleshoot programs, making it    
   easier to fix problems that might come up.                                      
-  ------------------------------------------------------------------------------------------------------------------
 
 **Midterms**
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------
-  **Log Monitoring**                                                                            **October 10 2024**     **38/40**
-  --------------------------------------------------------------------------------------------- ----------------------- -----------------------
-  ![](vertopal_e0f15d243d9742d8b04ce1d30baf3ea0/media/image5.png){width="3.908069772528434in"                           
-  height="4.881944444444445in"}                                                                                         
+  ![image](https://github.com/user-attachments/assets/03061d78-8ce9-4f79-8fee-7cf2872ce317)
+                                                                                 
 
   For our midterm, one of the activities we did was monitoring a server. We were given an image                         
   showing server statistics, and our task was to identify key metrics used to monitor the                               
@@ -149,13 +64,10 @@
   reinforced the importance of tracking key metrics to ensure smooth system performance. It was                         
   a great opportunity to apply theoretical knowledge to real-world scenarios, and I look                                
   forward to learning more about server management in the future.                                                       
-  ---------------------------------------------------------------------------------------------------------------------------------------------
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------
-  **Setting Up Web Server**                                                                     **October 10 2024**     **/50**
-  --------------------------------------------------------------------------------------------- ----------------------- -----------------------
-  ![](vertopal_e0f15d243d9742d8b04ce1d30baf3ea0/media/image6.png){width="3.784060586176728in"                           
-  height="4.196830708661417in"}                                                                                         
+
+ ![image](https://github.com/user-attachments/assets/3a8a85b9-310a-465b-b563-c1b4190c618e)
+                                                                                   
 
   Another fun activity we did in our SYSADM1 subject was setting up a web server. This activity                         
   was both fun and informative because it guided us through the steps of implementing a web                             
@@ -168,13 +80,10 @@
   lead to big issues in server setup. It was a great hands-on learning experience, and it gave                          
   me a better understanding of how web servers work and how to troubleshoot common problems                             
   that can arise when setting one up.                                                                                   
-  ---------------------------------------------------------------------------------------------------------------------------------------------
 
-  --------------------------------------------------------------------------------------------------------------------------------------------
-  **File Server, Network File Storage and Mobile Synchronization**                              **October 15 2024**     **4/8**
-  --------------------------------------------------------------------------------------------- ----------------------- ----------------------
-  ![](vertopal_e0f15d243d9742d8b04ce1d30baf3ea0/media/image7.png){width="3.777752624671916in"                           
-  height="5.834782370953631in"}                                                                                         
+
+ ![image](https://github.com/user-attachments/assets/9623bc4e-5b9b-4db2-9391-ff5a7daf392d)
+                                                                                   
 
   Another one of my favorite activities we did was about File Servers, Network File Storage,                            
   Mobile Synchronization, Web Servers, Load Balancers, and more. It was one of my favorites                             
@@ -187,15 +96,12 @@
   because it allowed us to work together, think critically, and learn about the different                               
   topics in a fun and interactive way. It was a great way to dive deeper into the subject while                         
   strengthening teamwork and problem-solving skills.                                                                    
-  --------------------------------------------------------------------------------------------------------------------------------------------
+
 
 **Finals**
 
-  ----------------------------------------------------------------------------------------------------------------------------------
-  **FQuiz1_Recovery**                                                                           **November 21, 2024**
-  --------------------------------------------------------------------------------------------- ------------------------------------
-  ![](vertopal_e0f15d243d9742d8b04ce1d30baf3ea0/media/image8.png){width="4.070770997375328in"   
-  height="5.136019247594051in"}                                                                 
+![image](https://github.com/user-attachments/assets/5a75c9df-d5b6-4d11-8d24-7319ba1c2c26)
+                                                              
 
   For our finals, we had another case study, and this time it was about TechGuard Solutions and 
   how they handled a cybersecurity crisis. The case study focused on a malware attack they      
@@ -208,13 +114,10 @@
   became clear to me how critical it is for companies to have strong recovery and prevention    
   plans in place. It was a great learning experience that emphasized not just solving issues    
   when they arise but also being prepared for anything that might happen.                       
-  ----------------------------------------------------------------------------------------------------------------------------------
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Network Topology Part 1**                                                                                                                                          **November 28, 2024**   **21/30**
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------- -----------------------
-  ![C:\\Users\\zhaun\\Downloads\\38add597-97fb-4196-b72d-aca82a0da05f.jpg](vertopal_e0f15d243d9742d8b04ce1d30baf3ea0/media/image9.jpeg){width="3.3651312335958004in"                           
-  height="4.585774278215223in"}                                                                                                                                                                
+![image](https://github.com/user-attachments/assets/efb5c246-f337-44bc-b927-164ed6f77f59)
+
+                                                                                                                                                           
 
   This task was one of the final activities we completed in SYSADM1, and it was a paired activity that really challenged us to think critically. The task required us                          
   to understand, evaluate, and create a solution for an e-commerce network topology. The given topology had several major issues, such as scalability problems,                                
@@ -224,7 +127,7 @@
   It helped us realize that network engineers must constantly adapt to solve issues related to network growth and efficiency, and this experience opened our eyes to                           
   the complexities of designing scalable and secure networks. Overall, the activity was an invaluable learning experience that taught us how to approach and solve                             
   problems that companies face in their day-to-day operations, and it reinforced the importance of planning for future network needs.                                                          
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
 
   ----------------------------------------------------------------------------------------------------------------------------------
   **Network Topology Part 2**                                                                    **December 5, 2024**
