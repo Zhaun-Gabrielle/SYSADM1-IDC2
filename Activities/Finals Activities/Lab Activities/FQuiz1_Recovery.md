@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 185e236b776547b1a22effd833dcf989 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Zhaun Gabrielle F. Pasion  | DATE PERFORMED:        |          |
-|                                  | 11/21/24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 11/21/24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/9acd3428-71dd-4310-b4e5-cbeac80f10b4)
+
 
 **WINDOWS ADMINISTRATIVE TOOLS**
 
