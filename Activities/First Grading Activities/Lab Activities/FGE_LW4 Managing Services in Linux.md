@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| c5088e25e02e4e7ba4ab26b43601480f |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Zhaun Gabrielle F. Pasion  | DATE PERFORMED:        |          |
-|                                  | 12/9/24                |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 12/9/24                |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/7203de7d-ddc8-44aa-9c0f-45e8ffa9bee7)
+
 
 # SYSADM1 -- Managing Services in Linux
 
@@ -20,8 +7,8 @@
 
 -   A virtual machine running Linux
 
-![](vertopal_c5088e25e02e4e7ba4ab26b43601480f/media/image2.png){width="4.135416666666667in"
-height="1.8020833333333333in"}
+![image](https://github.com/user-attachments/assets/8d7cd30c-0f31-41f0-a229-28666de12dfc)
+
 
 Complete this lab as follows:
 
@@ -31,68 +18,51 @@ Complete this lab as follows:
 List down active and inactive services in the table below. Provide five
 (5) services for each column.
 
-  -----------------------------------------------------------------------
-  **Active**                             **Inactive**
-  -------------------------------------- --------------------------------
-  alsa-utils                             anacron
+![image](https://github.com/user-attachments/assets/0f3cc109-5715-41f2-bece-9ac8ae7b2550)
 
-  apport                                 apparmor
-
-  cron                                   bluetooth
-
-  cups                                   console-setup.sh
-
-  dbus                                   cryptisks
-  -----------------------------------------------------------------------
 
 SS:
 
-![](vertopal_c5088e25e02e4e7ba4ab26b43601480f/media/image3.png){width="3.006126421697288in"
-height="2.250617891513561in"}
+![image](https://github.com/user-attachments/assets/9f95391f-b9dc-49e2-a006-c2f973888351)
+
 
 2.  Start the Bluetooth service using the systemctl command.
 
 Ex. sudo systemctl start httpd
 
-![](vertopal_c5088e25e02e4e7ba4ab26b43601480f/media/image4.png){width="4.359946412948381in"
-height="1.1875in"}
+![image](https://github.com/user-attachments/assets/37a9808c-33bb-4cb1-a138-e0bf5bb3366c)
+
 
 3.  Check the status of the Bluetooth service. What is its status?
     inactiveSS:
 
-![](vertopal_c5088e25e02e4e7ba4ab26b43601480f/media/image5.png){width="7.027083333333334in"
-height="1.0680555555555555in"}
+![image](https://github.com/user-attachments/assets/88e49439-69e1-40a2-88ca-2da67978e61c)
+
 
 4.  Check the status of the cups services. Since when was it running?
 
 Active since 2024-9-12 09:09:14 4min 36 s ago
 
 SS:
-![](vertopal_c5088e25e02e4e7ba4ab26b43601480f/media/image6.png){width="7.027083333333334in"
-height="3.4166666666666665in"}
+
+![image](https://github.com/user-attachments/assets/bec500dd-203e-41a0-b899-01c798ad1c50)
+
 
 5.  Stop cups services.
 
-![](vertopal_c5088e25e02e4e7ba4ab26b43601480f/media/image7.png){width="6.969722222222222in"
-height="0.3229615048118985in"}
+![image](https://github.com/user-attachments/assets/6c2739d1-d02e-42d5-a0bf-d8d3cdcb0fb0)
 
-![](vertopal_c5088e25e02e4e7ba4ab26b43601480f/media/image8.png){width="1.1459930008748906in"
-height="0.3125437445319335in"}
 
 6.  Verify if the service was stopped.
 
-![](vertopal_c5088e25e02e4e7ba4ab26b43601480f/media/image9.png){width="7.027083333333334in"
-height="3.6041666666666665in"}
+![image](https://github.com/user-attachments/assets/5e63e1fb-040b-45d5-b835-cdcc29908f9c)
+
 
 7.  Restart the cups services
 
-![](vertopal_c5088e25e02e4e7ba4ab26b43601480f/media/image10.png){width="7.027083333333334in"
-height="0.24375in"}
+![image](https://github.com/user-attachments/assets/3dc1cafa-ef36-4b5a-95c9-b7b73aee1d25)
 
 8.  Verify if the service was restarted.
 
-![](vertopal_c5088e25e02e4e7ba4ab26b43601480f/media/image11.png){width="1.1980839895013122in"
-height="0.22919838145231847in"}
+![image](https://github.com/user-attachments/assets/8edcd55a-66e3-4204-a810-d1043115ef39)
 
-![](vertopal_c5088e25e02e4e7ba4ab26b43601480f/media/image12.png){width="7.027083333333334in"
-height="3.2305555555555556in"}
