@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| cc2f1869dbd04f42a50a63ceb930a687 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Zhaun Gabrielle F. Pasion  | DATE PERFORMED:        |          |
-|                                  | 11/21/24               |          |
-+----------------------------------+------------------------+----------+
-| Section: Idc2                    | DATE SUBMITTED:        |          |
-|                                  | 11/21/24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/561799e3-5c83-4057-ac03-b66a053383fa)
+
 
 # SYSADM1 -- Git Basics
 
@@ -204,35 +191,32 @@ more on community-driven collaboration.
 
 -   **GitLab**: Create a new project.
 
-> **Step 2: Initialize Git locally** if the project isn\'t already a Git
-> repository:
->
-> ![](vertopal_cc2f1869dbd04f42a50a63ceb930a687/media/image2.png){width="0.7917771216097987in"
-> height="0.33338035870516186in"}
->
-> **Step 3: Add and commit files** (if not already done):
->
-> ![](vertopal_cc2f1869dbd04f42a50a63ceb930a687/media/image3.png){width="2.531603237095363in"
-> height="0.552159886264217in"}
->
-> **Step 4: Add the remote repository URL**:
->
-> **GitHub**:
->
-> ![](vertopal_cc2f1869dbd04f42a50a63ceb930a687/media/image4.png){width="5.292404855643045in"
-> height="0.3021259842519685in"}
->
-> **GitLab**:
->
-> ![](vertopal_cc2f1869dbd04f42a50a63ceb930a687/media/image5.png){width="5.302823709536308in"
-> height="0.34379811898512685in"}
->
-> **Step 5: Push the code**:
->
-> ![](vertopal_cc2f1869dbd04f42a50a63ceb930a687/media/image6.png){width="5.417422353455818in"
-> height="0.33338035870516186in"}
->
-> **Step 6: Verify** the files are uploaded to GitHub or GitLab.
+ **Step 2: Initialize Git locally** if the project isn\'t already a Git
+ repository:
+
+> git init
+
+ **Step 3: Add and commit files** (if not already done):
+
+> git add .
+> git commin -m "commit message"
+
+ **Step 4: Add the remote repository URL**:
+
+ **GitHub**:
+
+> git init remote add origin "Link of repository"
+
+ **GitLab**:
+
+> git init remote add origin "Link of repository"
+
+ **Step 5: Push the code**:
+
+> Git push origin "Branch name"
+
+
+ **Step 6: Verify** the files are uploaded to GitHub or GitLab.
 
 9.  What are the steps to collaborate with others using GitLab or
     GitHub?
