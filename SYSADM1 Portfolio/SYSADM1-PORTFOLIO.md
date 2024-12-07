@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b1c435f-3a96-429e-ad6e-74afd23bbfa7)![image](https://github.com/user-attachments/assets/a966b30a-80e2-47f9-9b9a-60b2df0b2d47)
+![image](https://github.com/user-attachments/assets/a966b30a-80e2-47f9-9b9a-60b2df0b2d47)
 
 
 > **Table of Contents**
@@ -49,21 +49,24 @@ us the need to know when to use each method to keep systems safe and working wel
   ![image](https://github.com/user-attachments/assets/03061d78-8ce9-4f79-8fee-7cf2872ce317)
                                                                                  
 
-  For our midterm, one of the activities we did was monitoring a server. We were given an image                         
-  showing server statistics, and our task was to identify key metrics used to monitor the                               
-  server. We also had to describe what we saw in the image, including details like requests per                         
-  second, error rate, and common error types. I scored 38/40 because I got the requests per                             
-  second wrong. This activity made me realize that it's similar to what we learned in our                               
-  Operating Systems (OPSYS) class during our first year, where we discussed how logs may appear                         
-  in different seconds but actually happen at the same time. This happens because of the                                
-  \"first come, first served\" rule or other configurations set by the system. I also learned                           
-  how important it is to accurately interpret server data since it helps identify performance                           
-  issues or potential errors that could affect the server's operation. Monitoring a server                              
-  requires attention to detail and a good understanding of how different metrics impact the                             
-  system as a whole. This activity gave me hands-on experience with server monitoring and                               
-  reinforced the importance of tracking key metrics to ensure smooth system performance. It was                         
-  a great opportunity to apply theoretical knowledge to real-world scenarios, and I look                                
-  forward to learning more about server management in the future.                                                       
+  For our midterm, one of the activities we did was monitoring a server. We 
+  were given an image showing server statistics, and our task was to identify 
+  key metrics used to monitor the server. We also had to describe what we saw 
+  in the image, including details like requests per second, error rate, and 
+  common error types. I scored 38/40 because I got the requests per                             
+  second wrong. This activity made me realize that it's similar to what we 
+  learned in our Operating Systems (OPSYS) class during our first year, where 
+  we discussed how logs may appear in different seconds but actually happen 
+  at the same time. This happens because of the \"first come, first served\" 
+  rule or other configurations set by the system. I also learned how important 
+  it is to accurately interpret server data since it helps identify 
+  performance issues or potential errors that could affect the server's operation. 
+  Monitoring a server requires attention to detail and a good understanding of 
+  how different metrics impact the system as a whole. This activity gave me 
+  hands-on experience with server monitoring and reinforced the importance 
+  of tracking key metrics to ensure smooth system performance. It was                         
+  a great opportunity to apply theoretical knowledge to real-world scenarios, 
+  and I look forward to learning more about server management in the future.                                                       
 
 
  ![image](https://github.com/user-attachments/assets/3a8a85b9-310a-465b-b563-c1b4190c618e)
@@ -119,21 +122,24 @@ us the need to know when to use each method to keep systems safe and working wel
 
                                                                                                                                                            
 
-  This task was one of the final activities we completed in SYSADM1, and it was a paired activity that really challenged us to think critically. The task required us                          
-  to understand, evaluate, and create a solution for an e-commerce network topology. The given topology had several major issues, such as scalability problems,                                
-  security risks, and bottlenecks, which made us think deeply about how to address these challenges. We proposed solutions like implementing firewalls for added                               
-  security, introducing redundant network devices for load balancing, and ensuring redundancy to prevent downtime. This activity not only tested our technical                                 
-  knowledge but also pushed us to think like network engineers. We had to put ourselves in the shoes of professionals who face these real-world challenges every day.                          
-  It helped us realize that network engineers must constantly adapt to solve issues related to network growth and efficiency, and this experience opened our eyes to                           
-  the complexities of designing scalable and secure networks. Overall, the activity was an invaluable learning experience that taught us how to approach and solve                             
-  problems that companies face in their day-to-day operations, and it reinforced the importance of planning for future network needs.                                                          
+  This task was one of the final activities we completed in SYSADM1, and it was a paired 
+  activity that really challenged us to think critically. The task required us to understand, 
+  evaluate, and create a solution for an e-commerce network topology. The given topology had 
+  several major issues, such as scalability problems, security risks, and bottlenecks, 
+  which made us think deeply about how to address these challenges. We proposed solutions 
+  like implementing firewalls for added security, introducing redundant network devices 
+  for load balancing, and ensuring redundancy to prevent downtime. This activity not 
+  only tested our technical knowledge but also pushed us to think like network engineers. 
+  We had to put ourselves in the shoes of professionals who face these real-world 
+  challenges every day. It helped us realize that network engineers must constantly 
+  adapt to solve issues related to network growth and efficiency, and this experience 
+  opened our eyes to the complexities of designing scalable and secure networks. 
+  Overall, the activity was an invaluable learning experience that taught us how to
+  approach and solve problems that companies face in their day-to-day operations, and 
+  it reinforced the importance of planning for future network needs.                                                          
  
-
-  ----------------------------------------------------------------------------------------------------------------------------------
-  **Network Topology Part 2**                                                                    **December 5, 2024**
-  ---------------------------------------------------------------------------------------------- -----------------------------------
-  ![](vertopal_e0f15d243d9742d8b04ce1d30baf3ea0/media/image10.png){width="5.084043088363955in"   
-  height="4.927771216097987in"}                                                                  
+![image](https://github.com/user-attachments/assets/2bbf172b-2478-46aa-bdd3-2854796d283e)
+                                                                 
 
   Continuing from the previous reflection, we created a topology to help the company solve its   
   current problems while also preparing for future challenges. It felt like a big responsibility 
@@ -144,14 +150,14 @@ us the need to know when to use each method to keep systems safe and working wel
   of teamwork and careful planning because every decision had to be well thought out. It was     
   challenging, but it felt rewarding to create a solution that not only fixes current issues but 
   also supports the company's success in the long run.                                           
-  ----------------------------------------------------------------------------------------------------------------------------------
+
 
 **Course Reflection**
 
 What were your initial expectations for the course? Did the course meet,
 exceed, or fall short of these expectations?
 
-  -----------------------------------------------------------------------
+
   My initial expectations for the course were that we would mainly talk
   about managing and handling systems and the specific tasks of a system
   administrator. Little did I know, we would tackle a wide range of
@@ -162,45 +168,45 @@ exceed, or fall short of these expectations?
   providing valuable knowledge and hands-on experiences that I know will
   be useful in my future career.
 
-  -----------------------------------------------------------------------
+
 
 What were the main topics or concepts covered in the course? How did
 these topics contribute to your understanding of the subject matter?
 
-+-----------------------------------------------------------------------+
-| The main topics covered in the course were the roles and              |
-| responsibilities of a system administrator, how to manage systems     |
-| effectively, understanding various types of attacks and their impact, |
-| storage solutions, file storage protocols, web server management,     |
-| case studies, logs and monitoring, EULA (End User License Agreement), |
-| Linux, and cloud computing models such as IAAS, PAAS, SAAS, and NAAS. |
-| These topics ranged from foundational knowledge about system          |
-| administration to more advanced concepts in cybersecurity and cloud   |
-| computing.                                                            |
-|                                                                       |
-| These topics significantly contributed to my understanding of the     |
-| subject matter by providing both theoretical knowledge and practical  |
-| insights into systems administration, cybersecurity, and modern IT    |
-| infrastructure. They allowed me to gain a clearer understanding of    |
-| the day-to-day responsibilities of a system administrator, how to     |
-| protect systems from various types of attacks, and the importance of  |
-| effective data storage and file management. The case studies helped   |
-| me apply what I learned to real-world scenarios, enhancing my         |
-| problem-solving skills. Topics like web server management, logs, and  |
-| monitoring taught me how to ensure system performance and prevent     |
-| issues, while legal aspects like EULA highlighted the importance of   |
-| compliance. Additionally, learning about cloud computing models such  |
-| as IAAS, PAAS, and SAAS broadened my perspective on how these         |
-| technologies are transforming the IT landscape. Overall, these topics |
-| deepened my knowledge of both the technical and strategic elements of |
-| systems administration and cybersecurity.                             |
-+-----------------------------------------------------------------------+
+
+ The main topics covered in the course were the roles and              
+ responsibilities of a system administrator, how to manage systems     
+ effectively, understanding various types of attacks and their impact, 
+ storage solutions, file storage protocols, web server management,     
+ case studies, logs and monitoring, EULA (End User License Agreement), 
+ Linux, and cloud computing models such as IAAS, PAAS, SAAS, and NAAS. 
+ These topics ranged from foundational knowledge about system          
+ administration to more advanced concepts in cybersecurity and cloud   
+ computing.                                                            
+                                                                       
+ These topics significantly contributed to my understanding of the     
+ subject matter by providing both theoretical knowledge and practical  
+ insights into systems administration, cybersecurity, and modern IT    
+ infrastructure. They allowed me to gain a clearer understanding of    
+ the day-to-day responsibilities of a system administrator, how to     
+ protect systems from various types of attacks, and the importance of  
+ effective data storage and file management. The case studies helped   
+ me apply what I learned to real-world scenarios, enhancing my         
+ problem-solving skills. Topics like web server management, logs, and  
+ monitoring taught me how to ensure system performance and prevent     
+ issues, while legal aspects like EULA highlighted the importance of   
+ compliance. Additionally, learning about cloud computing models such 
+ as IAAS, PAAS, and SAAS broadened my perspective on how these         
+ technologies are transforming the IT landscape. Overall, these topics 
+ deepened my knowledge of both the technical and strategic elements of 
+ systems administration and cybersecurity.                             
+
 
 Reflecting on your learning process, what were the most effective
 strategies or techniques that helped you grasp and retain the course
 material?
 
-  -----------------------------------------------------------------------
+
   Reflecting on my learning process, the most effective strategies that
   helped me grasp and retain the course material were active engagement
   with case studies, hands-on practice, and consistent review. Analyzing
@@ -215,13 +221,13 @@ material?
   clarification when needed, were crucial in helping me fully grasp the
   course material.
 
-  -----------------------------------------------------------------------
+
 
 Were there any particular assignments, projects, or activities that
 significantly enhanced your learning experience? Why were they
 effective?
 
-  -----------------------------------------------------------------------
+
   Yes, there are several assignments and activities that played a key
   role in enhancing my learning experience, particularly the Network
   Topology activity, case studies, and the group activity on File
@@ -239,12 +245,12 @@ effective?
   enjoyable and effective way, while also improving my teamwork
   abilities.
 
-  -----------------------------------------------------------------------
+
 
 Did you encounter any challenges or difficulties during the course? How
 did you overcome these obstacles, and what did you learn from them?
 
-  -----------------------------------------------------------------------
+
   Yes, I did encounter some challenges during the course, particularly
   when it came to grasping some of the more technical aspects, such as
   understanding the complexities of network configurations and cloud
@@ -262,13 +268,11 @@ did you overcome these obstacles, and what did you learn from them?
   taught me that overcoming challenges is part of the learning journey,
   and persistence is the key to mastering complex topics.
 
-  -----------------------------------------------------------------------
 
 Did the course encourage critical thinking and analysis? How did it
 promote higher-order thinking skills, such as problem-solving or
 decision-making?
 
-  -----------------------------------------------------------------------
   Yes, the course definitely encouraged critical thinking and analysis.
   It promoted higher-order thinking skills through various activities and
   assignments that required us to apply the concepts we learned in
@@ -287,56 +291,54 @@ decision-making?
   weighing various options before making conclusions, which will be
   valuable in future career scenarios.
 
-  -----------------------------------------------------------------------
 
 Reflecting on your personal growth, what new knowledge, skills, or
 perspectives did you gain from this course?
 
-+-----------------------------------------------------------------------+
-| Reflecting on my personal growth, this course has significantly       |
-| broadened my knowledge and skills in systems administration. I gained |
-| a deeper understanding of various technical concepts, such as cloud   |
-| computing models, and server management, which were previously        |
-| unfamiliar to me. I also developed practical skills, particularly in  |
-| setting up and managing network topologies, configuring web servers,  |
-| and understanding different storage solutions. These skills are       |
-| essential for any IT professional and have given me the confidence to |
-| tackle real-world challenges.                                         |
-|                                                                       |
-| Additionally, the course changed my perspective on the role of a      |
-| system administrator. I now recognize the complexity of the job,      |
-| including not just technical proficiency, but also the importance of  |
-| problem-solving, decision-making, and effective communication within  |
-| teams. I also gained a stronger appreciation for the legal and        |
-| ethical aspects of IT, such as EULAs, and their impact on             |
-| decision-making, system management, and how to monitor servers        |
-| efficiently. Overall, this course has equipped me with both technical |
-| skills and a strategic mindset, allowing me to approach problems in a |
-| more comprehensive way and prepare for a career in IT with a more     |
-| informed outlook.                                                     |
-+-----------------------------------------------------------------------+
+
+ Reflecting on my personal growth, this course has significantly       
+ broadened my knowledge and skills in systems administration. I gained 
+ a deeper understanding of various technical concepts, such as cloud   
+ computing models, and server management, which were previously        
+ unfamiliar to me. I also developed practical skills, particularly in  
+ setting up and managing network topologies, configuring web servers,  
+ and understanding different storage solutions. These skills are       
+ essential for any IT professional and have given me the confidence to 
+ tackle real-world challenges.                                         
+                                                                       
+ Additionally, the course changed my perspective on the role of a      
+ system administrator. I now recognize the complexity of the job,      
+ including not just technical proficiency, but also the importance of  
+ problem-solving, decision-making, and effective communication within  
+ teams. I also gained a stronger appreciation for the legal and        
+ ethical aspects of IT, such as EULAs, and their impact on             
+ decision-making, system management, and how to monitor servers       
+ efficiently. Overall, this course has equipped me with both technical 
+ skills and a strategic mindset, allowing me to approach problems in a 
+ more comprehensive way and prepare for a career in IT with a more     
+ informed outlook.                                                     
+
 
 How do you plan to apply what you have learned in this course to your
 future studies, career, or personal life?
 
-+-----------------------------------------------------------------------+
-| The knowledge and skills I gained from this course will significantly |
-| impact my future studies, career, and personal life. Through learning |
-| about system administration, I now have a deeper understanding of     |
-| managing and maintaining systems, handling network configurations,    |
-| and ensuring security within IT environments. In my future studies, I |
-| can apply this knowledge to more advanced IT and cybersecurity        |
-| courses, particularly in areas related to system management and cloud |
-| computing.                                                            |
-|                                                                       |
-| In terms of my career, the practical experience with system           |
-| administration tasks, such as configuring servers, and maintaining    |
-| system performance, has equipped me with a strong foundation for      |
-| roles in IT support, system administration, or cybersecurity. The     |
-| critical thinking and problem-solving skills I developed will help me |
-| address complex technical issues and optimize system performance in a |
-| professional setting. On a personal level, I feel more confident in   |
-| managing my own digital environments, ensuring security, and          |
-| understanding how systems operate, which will aid me in making        |
-| informed decisions regarding technology and personal data security.   |
-+-----------------------------------------------------------------------+
+ The knowledge and skills I gained from this course will significantly 
+ impact my future studies, career, and personal life. Through learning 
+ about system administration, I now have a deeper understanding of     
+ managing and maintaining systems, handling network configurations,    
+ and ensuring security within IT environments. In my future studies, I 
+ can apply this knowledge to more advanced IT and cybersecurity        
+ courses, particularly in areas related to system management and cloud 
+ computing.                                                            
+                                                                      
+ In terms of my career, the practical experience with system          
+ administration tasks, such as configuring servers, and maintaining    
+ system performance, has equipped me with a strong foundation for      
+ roles in IT support, system administration, or cybersecurity. The     
+ critical thinking and problem-solving skills I developed will help me 
+ address complex technical issues and optimize system performance in a 
+ professional setting. On a personal level, I feel more confident in   
+ managing my own digital environments, ensuring security, and          
+ understanding how systems operate, which will aid me in making        
+ informed decisions regarding technology and personal data security.   
+
