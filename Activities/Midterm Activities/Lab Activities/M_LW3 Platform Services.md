@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 8dc1718406014dc3814a01377984bd3b |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Zhaun Gabrielle F. Pasion  | DATE PERFORMED:        | /50      |
-|                                  | 17/10/24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 17/10/24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/2d49b927-83fa-4dee-a478-5498f7ed5d44)
+
 
 # SYSADM1 -- Platform Services
 
@@ -32,11 +19,10 @@
 
 1.  Access the event viewer in the server.
 
-![](vertopal_8dc1718406014dc3814a01377984bd3b/media/image2.png){width="5.639410542432196in"
-height="4.8444717847769025in"}
+![image](https://github.com/user-attachments/assets/7136bc48-8006-4ed4-acc2-5a9dd5cbb6dd)
 
-![](vertopal_8dc1718406014dc3814a01377984bd3b/media/image3.png){width="4.156829615048119in"
-height="1.6460629921259842in"}
+
+![image](https://github.com/user-attachments/assets/5bd933f8-50e6-44b0-826a-c53bb9406b7a)
 
 2.  From the event viewer, explore the windows log and list down its
     major categories
@@ -45,41 +31,40 @@ height="1.6460629921259842in"}
 
 -   Application
 
-> ![](vertopal_8dc1718406014dc3814a01377984bd3b/media/image4.png){width="4.873097112860893in"
-> height="2.6823950131233594in"}
+![image](https://github.com/user-attachments/assets/5ed0e898-33b4-4b79-952b-44152015c36d)
 
 -   Security
 
-> ![](vertopal_8dc1718406014dc3814a01377984bd3b/media/image5.png){width="4.884305555555556in"
-> height="2.5775470253718287in"}
+![image](https://github.com/user-attachments/assets/7f60f7d6-c826-4371-bf93-de35eb8232a9)
+
 
 -   Setup
 
-> ![](vertopal_8dc1718406014dc3814a01377984bd3b/media/image6.png){width="4.9785050306211724in"
-> height="1.940430883639545in"}
+![image](https://github.com/user-attachments/assets/96450c75-5839-45a8-bd01-8ca242a609a4)
+
 
 -   System
 
-> ![](vertopal_8dc1718406014dc3814a01377984bd3b/media/image7.png){width="5.044974846894139in"
-> height="2.7331310148731407in"}
+![image](https://github.com/user-attachments/assets/ad86a9db-cc1d-4cb5-b235-1bc23c9aaeb3)
+
 
 -   Forwarded Events
 
-> ![](vertopal_8dc1718406014dc3814a01377984bd3b/media/image8.png){width="5.028314741907262in"
-> height="2.619255249343832in"}
+![image](https://github.com/user-attachments/assets/456144af-dbc2-4ecb-820c-35a4c43945b5)
+
 
 **Part 2: Filtering and Analyzing IIS Events**
 
 1.  Apply filter to the windows log categories to display errors for the
     past 12 hours.
 
-![](vertopal_8dc1718406014dc3814a01377984bd3b/media/image9.png){width="5.719548337707787in"
-height="2.9274923447069114in"}
+![image](https://github.com/user-attachments/assets/f21f7a01-f8ae-4a3b-a88f-ffa56b6d9b34)
+
 
 2.  **Identify Critical Events** or recurring events.
 
-> ![](vertopal_8dc1718406014dc3814a01377984bd3b/media/image10.png){width="4.854201662292214in"
-> height="2.422759186351706in"}
+![image](https://github.com/user-attachments/assets/69029797-4c1e-44ce-85f6-912ee5a982eb)
+
 
 3.  **Analyze the Events**:
 
@@ -94,145 +79,17 @@ height="2.9274923447069114in"}
 
         -   **Description**
 
-+-------+---------+-------------------+------------------------------+
-| **    | **S     | **Timestamp**     | **Description**              |
-| Event | ource** |                   |                              |
-| ID**  |         |                   |                              |
-+=======+=========+===================+==============================+
-| 6006  | W       | 10/17/2024/       | The winlogon notification    |
-|       | inlogon | 9:01:31 AM        | subscriber \<GPClient\> took |
-|       |         |                   | 120 second(s) to handle the  |
-|       |         |                   | notification event (Create   |
-|       |         |                   | Session)                     |
-+-------+---------+-------------------+------------------------------+
-| 6005  | W       | 10/17/2024/       | The winlogon notification    |
-|       | inlogon | 9:00:30 AM        | subscriber \<GPClient\> is   |
-|       |         |                   | taking too long to handle    |
-|       |         |                   | the notification event       |
-|       |         |                   | (Create Session)             |
-+-------+---------+-------------------+------------------------------+
-| 16387 | S       | 10/17/2024/       | Failed to run task           |
-|       | ecurity | 9:00:11 AM        | \\Mic                        |
-|       |         |                   | rosoft\\Windows\\WS\\License |
-|       |         |                   | Validation. Error Code       |
-|       |         |                   | 0x80041326.                  |
-+-------+---------+-------------------+------------------------------+
-| 1008  | Perflib | 10/17/2024/       | The Open Procedure for       |
-|       |         | 8:59:47 AM        | Service "BITs" in DDL        |
-|       |         |                   | "C:\\Wind                    |
-|       |         |                   | ows\\System32\\bitsperf.dll" |
-|       |         |                   | failed. Performance data for |
-|       |         |                   | this service will not be     |
-|       |         |                   | available. The first four    |
-|       |         |                   | bytes (DWORD) of the Data    |
-|       |         |                   | section Contains the error   |
-|       |         |                   | code.                        |
-+-------+---------+-------------------+------------------------------+
-| 8198  | S       | 10/17/2024/       | License Activation           |
-|       | ecurity | 8:44:10 AM        | (slui.exe) failed with the   |
-|       |         |                   | following error code:\       |
-|       |         |                   | hr=0xC004C003                |
-+-------+---------+-------------------+------------------------------+
-| 1014  | S       | 10/17/2024/       | Acquisition of End User      |
-|       | ecurity | 8:44:10 AM        | License failed.              |
-|       |         |                   | He=0xC004C003 Sku            |
-|       |         |                   | id=439e8c91-                 |
-|       |         |                   | ff38-4ecb-ba0b-326586080c953 |
-+-------+---------+-------------------+------------------------------+
-| 8200  | S       | 10/17/2024/       | License acquisition failure  |
-|       | ecurity | 8:44:10 AM        | details                      |
-|       |         |                   |                              |
-|       |         |                   | Hr=0xC004C003                |
-+-------+---------+-------------------+------------------------------+
-| 1014  | DNS     | 10/17/2024/       | Name resolution of the name  |
-|       | Client  | 9:09:29 AM        | ipv6.msftncsi.com timeout    |
-|       | Event   |                   | after none of the DNS        |
-|       |         |                   | servers responded            |
-+-------+---------+-------------------+------------------------------+
-| 10154 | Windows | 10/17/2024/       | The WinRM service failed to  |
-|       | Remote  | 9:09:06 AM        | create the following SPNs:   |
-|       | Man     |                   | WSMAN/PasionServer.SRVR.org; |
-|       | agement |                   | WSMAN/PasionServer           |
-+-------+---------+-------------------+------------------------------+
-| 1014  | DNS     | 10/17/2024/       | Name resolution for the      |
-|       | Client  | 9:08:37 AM        | name_ld                      |
-|       | Events  |                   | ap.\_tcp.dc.\_msdcs.SRVR.org |
-|       |         |                   | timed out after none of the  |
-|       |         |                   | configured DNS servers       |
-|       |         |                   | responded.                   |
-+-------+---------+-------------------+------------------------------+
-| 34    | disk    | 10/17/2024/       | The driver disabled the      |
-|       |         | 9:08:35 AM        | write change on the device   |
-|       |         |                   | \\Device\\Harddisk0\\DR0     |
-+-------+---------+-------------------+------------------------------+
-| 34    | disk    | 10/17/2024/       | The driver disabled the      |
-|       |         | 9:08:35 AM        | write change on the device   |
-|       |         |                   | \\Device\\Harddisk0\\DR0     |
-+-------+---------+-------------------+------------------------------+
-| 34    | disk    | 10/17/2024/       | The driver disabled the      |
-|       |         | 9:08:35 AM        | write change on the device   |
-|       |         |                   | \\Device\\Harddisk0\\DR0     |
-+-------+---------+-------------------+------------------------------+
-| 34    | disk    | 10/17/2024/       | The driver disabled the      |
-|       |         | 8:58:42 AM        | write change on the device   |
-|       |         |                   | \\Device\\Harddisk0\\DR0     |
-+-------+---------+-------------------+------------------------------+
-| 34    | disk    | 10/17/2024/       | The driver disabled the      |
-|       |         | 8:58:42 AM        | write change on the device   |
-|       |         |                   | \\Device\\Harddisk0\\DR0     |
-+-------+---------+-------------------+------------------------------+
-| 1014  | DNS     | 10/17/2024/       | Name resolution for the name |
-|       | Client  | 8:53:42 AM        | 6t04.ipv6.microsoft.com      |
-|       | Events  |                   | timed out after none of the  |
-|       |         |                   | configured DNS server        |
-|       |         |                   | responded                    |
-+-------+---------+-------------------+------------------------------+
-| 1014  | DNS     | 10/17/2024/       | Name resolution for the name |
-|       | Client  | 8:53:00 AM        | ipv6.msftncsi.com timed out  |
-|       | Events  |                   | after none of the configured |
-|       |         |                   | DNS server responded         |
-+-------+---------+-------------------+------------------------------+
-| 1014  | DNS     | 10/17/2024/       | Name resolution for the name |
-|       | Client  | 8:44:46 AM        | ipv6.msftncsi.com timed out  |
-|       | Events  |                   | after none of the configured |
-|       |         |                   | DNS server responded         |
-+-------+---------+-------------------+------------------------------+
-| 1014  | DNS     | 10/17/2024/       | Name resolution for the name |
-|       | Client  | 8:44:45 AM        | win8.ipv6.microsoft.com.     |
-|       | Events  |                   | timed out after none of the  |
-|       |         |                   | configured DNS server        |
-|       |         |                   | responded                    |
-+-------+---------+-------------------+------------------------------+
-| 1014  | DNS     | 10/17/2024/       | Name resolution for the name |
-|       | Client  | 8:44:45 AM        | win8.ipv6.microsoft.com      |
-|       | Events  |                   | timed out after none of the  |
-|       |         |                   | configured DNS server        |
-|       |         |                   | responded                    |
-+-------+---------+-------------------+------------------------------+
-| 7023  | Service | 10/17/2024/       | The windows Time service     |
-|       | Control | 8:58:43 AM        | Terminated with the          |
-|       | Manager |                   | following error: An attempt  |
-|       |         |                   | was made to logon, but the   |
-|       |         |                   | network logon service was    |
-|       |         |                   | not started                  |
-+-------+---------+-------------------+------------------------------+
-| 46    | Time-   | 10/17/2024/       | The time service encountered |
-|       | Service | 8:44:45 AM        | an error and was forced to   |
-|       |         |                   | shut down. The error was:    |
-|       |         |                   | 0x80070700: An attempt was   |
-|       |         |                   | made to logon, but the       |
-|       |         |                   | network logon service was    |
-|       |         |                   | not started                  |
-+-------+---------+-------------------+------------------------------+
-| 7030  | Serve   | 10/17/2024/       | The Printer Extensions and   |
-|       | Control | 8:45:40 AM        | Notification services is     |
-|       | manager |                   | marked as an interactive     |
-|       |         |                   | service. However the system  |
-|       |         |                   | is configured to not allow   |
-|       |         |                   | interactive services. This   |
-|       |         |                   | service may not function     |
-|       |         |                   | properly.                    |
-+-------+---------+-------------------+------------------------------+
+![image](https://github.com/user-attachments/assets/a103a4bb-6905-44f9-bd35-d0667e40545b)
+
+![image](https://github.com/user-attachments/assets/83096706-ec99-4073-8cb1-a81964bbc0c5)
+
+![image](https://github.com/user-attachments/assets/7e4cc39d-4bfb-4ab0-8d93-1083d7c03d0a)
+
+
+![image](https://github.com/user-attachments/assets/ed36e993-c9b5-47d5-9a3b-7c4ae495e21b)
+
+![image](https://github.com/user-attachments/assets/216f6162-b4c9-4f53-bb7b-f8b8ae7a589e)
+
 
 **Part 3: Troubleshooting and Solution Development**
 
@@ -399,50 +256,8 @@ server is located.
 
 Grading Rubric
 
-  ---------------------------------------------------------------------------------------------------------------------------------------
-  **Criteria**        **Excellent**     **Good**          **Needs                           **Poor**                         **Points**
-                                                          Improvement**                                                      
-  ------------------- ----------------- ----------------- --------------- ----------------- ------------- ------------------ ------------
-  **Log Analysis**    Identifies all    Identifies most   Identifies some                   Fails to                         /10
-                      key events (503,  key events with   events, but                       identify key                     
-                      404, 500, etc.)   minor errors in   with incomplete                   events or                        
-                      with accurate     details.          or incorrect                      provides                         
-                      event details.                      details.                          incorrect                        
-                                                                                            details.                         
+![image](https://github.com/user-attachments/assets/c4d577a7-6123-4067-9b34-af332d366315)
 
-  **Troubleshooting   Proposes logical, Solutions are     Solutions are                     Solutions are                    /10
-  Solutions**         effective         mostly correct    somewhat vague                    unclear or                       
-                      solutions to all  but miss some key or incomplete.                    incorrect.                       
-                      identified        points.                                                                              
-                      issues.                                                                                                
-
-  **Report Structure  Well-organized    Report is mostly  Report is                         Report is                        /10
-  & Clarity**         report with all   organized with    disorganized or                   unclear or                       
-                      sections clearly  minor formatting  missing                           incomplete.                      
-                      completed.        issues.           sections.                                                          
-
-  **Recommendations   Provides          Recommendations                   Recommendations                 Fails to provide   /10
-  for Monitoring**    thoughtful,       are relevant but                  are vague or                    relevant           
-                      proactive         lack depth.                       incomplete.                     recommendations.   
-                      recommendations                                                                                        
-                      to prevent future                                                                                      
-                      issues.                                                                                                
-
-  **Participation &   Actively engaged  Participated but                  Minimal                         Did not            /10
-  Effort**            in the activity,  required some                     participation,                  participate        
-                      followed          guidance.                         needed                          meaningfully.      
-                      instructions                                        significant help.                                  
-                      thoroughly.                                                                                            
-
-  **Score**                                                                                                                  **/50**
-  ---------------------------------------------------------------------------------------------------------------------------------------
 
 Screenshots of Errors and Warnings:\
-![](vertopal_8dc1718406014dc3814a01377984bd3b/media/image11.png){width="4.9069346019247595in"
-height="1.8960979877515312in"}
-
-![](vertopal_8dc1718406014dc3814a01377984bd3b/media/image12.png){width="5.86540135608049in"
-height="2.229478346456693in"}
-
-![](vertopal_8dc1718406014dc3814a01377984bd3b/media/image13.png){width="4.615227471566055in"
-height="1.5418821084864391in"}
+![image](https://github.com/user-attachments/assets/1be6c75f-623b-4f43-9d6c-54615a0322bb)
