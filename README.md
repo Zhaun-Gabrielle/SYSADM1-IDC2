@@ -26,7 +26,7 @@ Each folder contains two subfolders:
 
 ### Lab Activity:
 
-- Contains practical exercises, including .md files that provide previews of the files in the Download Files folder.
+- Contains laboratory activities and practical exercises, including .md files that provide previews of the files in the Download Files folder.
   
 - Includes a Download Files folder where all downloadable files used in the activities are stored.
   
